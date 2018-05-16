@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="refresh" content="20000, URL=podstrony/dalej2.html">
+<title>Audaces</title>
+</head>
+<body>
+
+<script>
+function prolog(){
+document.getElementById('begin').innerHTML = '<center>Niby podobne do wielu innych, ale z jednym wyjątkiem.</center>';
+setInterval("begin()", 3500);}
+
+function begin(){
+document.getElementById('begin1').innerHTML = '<center>Jest ostatnim, bezpiecznym miejscem, przed dzikimi pustkowiami, na które wyruszają nieustraszeni śmiałkowie...</center>';
+setInterval("begin1()", 3500);}
+
+function begin1(){
+document.getElementById('begin2').innerHTML = '<center>Tacy jak Ty...</center>';
+setInterval("begin2()", 0);setTimeout("przekierowanie()", 3500);}
+
+function przekierowanie(){window.location.href = "dalej2.html";}
+</script>
+
+<p id = "prolog"><center>Na pograniczu królestwa jest pewne miasto.</center></p><script>setInterval("prolog()", 4500);</script>
+<p id = "begin"></p><p id = "begin1"></p><p id = "begin2"></p><p id = "begin3"></p>
+
+</body>
+</html>

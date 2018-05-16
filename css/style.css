@@ -1,0 +1,114 @@
+#body{ background: yellow; }
+
+#bohater{
+width: 958px;
+height: 145px;
+border: solid black 2px;
+background: blue;
+border-radius: 25px;
+float: left;
+}
+
+#interfejsgry{
+width: 958px;
+height: 470px;
+border: solid black 2px;
+float: left;
+background: green;
+border-radius: 25px;
+margin-top: 20px;
+color: rgb(229, 229, 229);
+}
+
+#ekwipunek{
+width: 350px;
+height: 630px;
+border: solid black 2px;
+float: right;
+background: red;
+font-size: 20px;
+font-weight: bold;
+border-radius: 25px;
+}
+
+#dół{ width: 1338px; height: 485px; }
+
+#rasa, #profesja, #płeć, #wzrost, #waga, #oczy, #poziom {
+width: 100px;
+height: 40px;
+color: white;
+margin-top: 5px;
+float: left;
+font-size: 14px;
+text-align: center;
+}
+
+#xp{ width: 150px; float: left; }
+	
+#kartapostaci{
+color: white;
+margin-top: 5px;
+font-size: 20px;
+text-align: center;
+font-weight: bold;
+}
+
+#siła{ width: 50px; margin-left: 20px; }
+#wytrzymałość{ width: 150px; }
+#zręczność{ width: 120px; }
+#inteligencja{ width: 150px; }
+#charyzma{ width: 90px; }
+
+#charyzma, #inteligencja, #zręczność, #wytrzymałość, #siła, #xp{
+height: 40px;
+color: white;
+margin-top: 5px;
+font-size: 14px;
+float: left;
+text-align: center;
+}
+
+#cechy{ margin-left: 50px; margin-top: 10px; }
+
+#dalej{
+width: 65px;
+background: black;
+color: white;
+border-radius: 15px;
+}
+
+#tak{
+width: 60px;
+background: navy;
+color: white;
+border-radius: 15px;
+}
+
+#nie{
+width: 60px;
+background: red;
+color: white;
+border-radius: 15px;	
+}
+
+#koniec{
+color: black;
+font-size: 40px;
+text-align: center;
+margin-top: 45px;
+font-weight: bold;
+}
+
+#paczka{
+color: black;
+background: rgb(90, 201, 205);
+width: 75px;
+border-radius: 15px;
+}
+
+#tabelaekwipunku{
+color: white;
+font-size: 14px;
+margin-top: 25px;
+margin-left: 10px;
+}

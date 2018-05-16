@@ -1,0 +1,21 @@
+﻿UMOWA LICENCYJNA UŻYTKOWNIKA APLIKACJI AUDACES (oraz wszystkich jego wersji).
+
+POSIADAJĄC APLIKACJĘ AKCEPTUJESZ PONIŻSZE POSTANOWIENIA.
+
+
+Autor informuje, iż zawarte treści w applikacji mogą być niestosowne dla osób niepełnoletnich, o innym światopoglądzie lub
+wyznawanej religii.
+
+Użytkownik używa aplikację na własne ryzyko.
+Twórca tej apliakcji informuje, iż aplikacja ta stworzona została w celach hobbystycznych oraz w celu nauki programowania.
+Aplikacja ta może zawierać błędy, które niekonieniecznie zostaną poprawione.
+Autor nie udziela żadnych gwarancji, obietnic oraz zapewnień na tą aplikację (i jej wersje) i nie odpowiada za błędne działanie lub użytkowanie programu.
+Autor aplikacji nie bierze na siebie żadnych reklamacji w sprawie wadliwego działania programu oraz nie poczuwa się do zadość uczynienia za spowodowane szkody.
+Prawa autorskie należą do Szymona Cendeckiego.
+
+AUDACES jest rozprowadzany na zasadzie FREEWARE czyli:
+- użytkownik dostaję aplikację za darmo,
+- nie może w żaden sposób zmieniać aplikacji,  
+- może wykorzystywać aplikację na własny użytek,
+- zabrania się wykorzystywać aplikację w celach komercyjnych,
+- zabrania się ujawniania kodów źródłowych
