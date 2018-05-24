@@ -5,3 +5,7 @@ Tą grę zrobiłem jakoś na przełomie toku 2015 - 2017, w ramach nauki HTML, C
 
 english language<br>
 I have made game as on turning-point of course it 2015 - 2017, within the confines of science HTML, CSS and JavaScript. A lot chaos, a lot nerves, but it has managed . Game is enough short. Mum  have hope, that next versions will be better. 
+
+
+technology used:
+HTML, CSS, JS
